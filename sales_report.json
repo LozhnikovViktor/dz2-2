@@ -1,0 +1,16 @@
+{
+    "2024-10-01": [
+        {
+            "product": "Apple",
+            "total_sales": 250
+        },
+        {
+            "product": "Banana",
+            "total_sales": 200
+        },
+        {
+            "product": "Orange",
+            "total_sales": 180
+        }
+    ]
+}

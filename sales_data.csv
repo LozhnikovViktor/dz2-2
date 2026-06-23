@@ -1,0 +1,9 @@
+Date,Store,Product,Price,Quantity
+2024-10-01,Store_A,Apple,2.5,100
+2024-10-01,Store_A,Banana,1.8,200
+2024-10-01,Store_B,Apple,2.5,150
+2024-10-01,Store_B,Orange,2.0,180
+2024-10-02,Store_A,Apple,2.5,120
+2024-10-02,Store_A,Banana,1.8,250
+2024-10-02,Store_B,Apple,2.5,130
+2024-10-02,Store_B,Orange,2.0,170
